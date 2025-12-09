@@ -20,6 +20,5 @@ public class CRUDJavaClient{
 		this.restTemplate = new RestTemplate();
 	}
 	
-	
-	
+		
 }
